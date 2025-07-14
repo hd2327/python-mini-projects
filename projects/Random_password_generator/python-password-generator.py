@@ -9,5 +9,4 @@ password = "".join(random.sample(total, length))
 
 print(password)
 
-# 123
 # 456 from hao
