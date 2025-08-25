@@ -7,6 +7,8 @@ length = 16
 
 print("This is from Hao")
 
+Print("Test push")
+
 password = "".join(random.sample(total, length))
 
 print(password)
