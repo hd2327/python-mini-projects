@@ -5,7 +5,7 @@ total = string.ascii_letters + string.digits + string.punctuation
 
 length = 16
 
-print("This is another feacher from Dong")
+print("This is a feature form Hao")
 
 password = "".join(random.sample(total, length))
 
