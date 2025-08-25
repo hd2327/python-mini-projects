@@ -12,3 +12,4 @@ password = "".join(random.sample(total, length))
 print(password)
 
 # 456 from hao
+
